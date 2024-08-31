@@ -1,7 +1,7 @@
 {
 "arrowParens":"always",
 "bracketSpacing":false,
-"endOfLine":true,
+"endOfLine":"auto",
 "htmlWhitespaceSensitivity":"css",
 "insertPragma": false,
 "jsxSingleQuote":false,
